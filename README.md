@@ -1,1 +1,2 @@
 # CINEBOT-Contextual-Intelligent-Entertainment-BOT
+CineBot is a web-based intelligent movie assistant that provides personalized film suggestions and detailed movie insights. It uses automated data retrieval and analysis to recommend movies based on user interest, ratings, and trending content. The system presents clean and structured information such as cast, genre, synopsis, trailer links, and reviews, making movie discovery faster and more interactive.
